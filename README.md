@@ -1,4 +1,6 @@
-# PokeApi
+# Test Proyecto Angular PokeApi - GrupoDot
+
+El proyecto actual ha sido desarrollado para presentar la prueba front del GrupoDot. Actualmente esta en su versión inicial solo con las peticiones HTTPs funcionales.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
